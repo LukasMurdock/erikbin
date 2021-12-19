@@ -5,3 +5,6 @@ node_modules
 /dist
 /public/build
 /app/tailwind.css
+
+/.mf
+.DS_Store
